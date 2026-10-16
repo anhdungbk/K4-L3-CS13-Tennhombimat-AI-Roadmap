@@ -30,14 +30,12 @@
 | [Báo cáo chi tiết](BAO_CAO_CS13_De3.md) | Căn cứ, cổng đánh giá, nguồn lực và điều kiện dừng |
 | [Báo cáo cá nhân](report/team/2A202602554_NguyenAnhDung.md) | Phạm vi phụ trách và kiến thức áp dụng |
 | [Thông tin thành viên](team/TEAM.md) | Học viên và bằng chứng bài làm |
-| [Tự đánh giá theo rubric](CHAM_THU_CS13.md) | Điểm tham khảo 94/100 và nhận xét từng tiêu chí |
 
 ## Kết quả rà soát
 
 - Đã hoàn thiện CP0–CP5, gồm đủ ba giai đoạn lộ trình.
 - Excel đạt 8/8 mục tự kiểm tra; các công thức đã được tính lại và không có ô lỗi.
 - Năm nội dung lãnh đạo không quá 60 chữ/ô; slide khớp số liệu trong Excel.
-- Tự đánh giá 94/100 là điểm tham khảo, không phải điểm của giảng viên.
 
 Số liệu đầu vào thuộc tình huống giả định của lab. Các mục tiêu, cỡ mẫu bổ sung và dự toán nguồn lực là đề xuất lập kế hoạch; chưa phải kết quả thử nghiệm bệnh viện thực tế.
 

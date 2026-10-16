@@ -79,7 +79,7 @@ Rà soát ngày 30/60/90 tính từ khởi động; tách riêng cuối tháng p
 
 Đã hoàn thiện Excel CP0–CP5, một slide lãnh đạo, thông tin thành viên và báo cáo cá nhân. Trang tự kiểm tra đạt 8/8; có đúng hai cổng áp dụng. Năm nội dung slide đều dưới 60 chữ và khớp Excel. Công thức được giữ theo mẫu và tính lại bằng LibreOffice, không có ô lỗi. Chưa xác minh trong Microsoft Excel.
 
-Tự đánh giá theo rubric: 94/100; chi tiết tại [CHAM_THU_CS13.md](CHAM_THU_CS13.md). Đây là điểm tham khảo, không phải điểm giảng viên. Kế hoạch chưa bao gồm thử nghiệm lâm sàng, đo hiệu quả hay hợp đồng thực tế.
+Kế hoạch chưa bao gồm thử nghiệm lâm sàng, đo hiệu quả hay hợp đồng thực tế.
 
 ## 8. Tài liệu tham khảo
 

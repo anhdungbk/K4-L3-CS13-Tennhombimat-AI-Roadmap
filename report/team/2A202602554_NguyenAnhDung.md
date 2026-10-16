@@ -19,9 +19,9 @@ Phạm vi phụ trách toàn bộ bài: phân tích hồ sơ CP0; xây sáu gi�
 | Lộ trình ba tầng | 3_Bảng lộ trình, B5:D12 |
 | Rà soát | 4_Rà soát, B5:D10 |
 | Nội dung lãnh đạo | 5_Slide lãnh đạo, B4:B8 và PPTX |
-| Tự kiểm tra và chấm thử | Trang 6–7; CHAM_THU_CS13.md |
+| Tự kiểm tra | Trang 6 |
 
-## Kiến thức áp dụng và tự đánh giá
+## Kiến thức áp dụng
 
 Đưa bất định AI vào kế hoạch; viết việc theo kết quả đo được; ưu tiên bằng RICE điều chỉnh theo sẵn sàng và độ bền; đặt cổng trước tăng tự động hóa; tính chi phí duyệt và biên gộp; xác định điều kiện dừng, lịch quyết định. Quyết định trọng tâm là sửa insulin trước pilot, BS luôn ký 100%, không giảm duyệt để làm đẹp kinh tế.
 
