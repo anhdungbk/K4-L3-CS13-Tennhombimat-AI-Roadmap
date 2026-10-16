@@ -1,15 +1,12 @@
 # Thông tin nhóm
 
-- Tên nhóm:
-- Số nhóm:
-- Đề CS13:
-- Link repo bài làm:
+- Tên nhóm: Tennhombimat
+- Quy mô: 1 thành viên
+- Đề CS13: 3 — RaViện
+- Link repo bài làm: https://github.com/anhdungbk/K4-L3-CS13-Tennhombimat-AI-Roadmap
 
-| STT | Họ tên | MSSV | Vai trò/phần việc | Bằng chứng đóng góp |
+| STT | Họ tên | MSSV | Vai trò/phần việc | Bằng chứng |
 |---|---|---|---|---|
-| 1 | | | | |
-| 2 | | | | |
+| 1 | Nguyễn Anh Dũng | 2A202602554 | Phụ trách toàn bộ CP0–CP5, sử dụng AI hỗ trợ soạn và kiểm tra | Tennhombimat_CS13.xlsx trang 0–6, Tennhombimat_CS13_Slide.pptx, báo cáo nhóm và cá nhân |
 
-Thêm dòng theo số thành viên thực tế. Không cần ghi email hoặc thông tin ngoài yêu cầu của lớp. Bằng chứng có thể dẫn đến trang/ô trong Excel nhóm đã cùng làm.
-
-Nếu lớp áp dụng báo cáo cá nhân theo skeleton, mỗi người điền một file `report/team/MSSV_HoTen.md`. Excel và slide được lưu trong repo nhóm; mỗi thành viên nộp link repo trên VLearn.
+Phạm vi: phân tích hồ sơ, sáu giả thuyết, ưu tiên, mức tự động, kinh tế, lộ trình, rà soát và slide. Bảng ghi trách nhiệm toàn bài, không khẳng định mọi nội dung được viết thủ công. Không có hoạt động thử nghiệm bệnh viện thật trong bài lab.
