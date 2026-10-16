@@ -3,7 +3,7 @@
 - Người học: Nguyễn Anh Dũng — MSSV 2A202602554
 - Đề 3: RaViện
 - Căn cứ: RUBRIC.md và trang 7 mẫu CS13_Roadmap_De3.xlsx.
-- Kết quả tự chấm nội dung: **94/100**. Đây là nhận định tham khảo của AI, không phải điểm hệ thống lớp hoặc giảng viên.
+- Kết quả tự chấm nội dung: **94/100**. Đây là tự đánh giá tham khảo theo rubric, không phải điểm hệ thống lớp hoặc giảng viên.
 
 ## Phân biệt kiểm tra tự động và chấm nội dung
 
@@ -30,8 +30,8 @@ Kiểm tra tự động xác nhận dữ liệu/công thức và độ đầy đ
 6. Kiểm tra tổng tự chấm 94 và nhãn tự chấm tham khảo.
 7. Kiểm tra bản xem trước các vùng thay đổi và slide.
 
-Các phép kiểm được chạy trong quá trình hoàn thiện. Chưa xác minh trên Microsoft Excel, chưa chạy mô hình thật và chưa nộp GitHub/VLearn.
+Các phép kiểm được thực hiện trên bản bài làm. Chưa xác minh trong Microsoft Excel và chưa có thử nghiệm mô hình thực tế. Trạng thái gửi VLearn được quản lý riêng trên hệ thống lớp.
 
 ## Hướng cải thiện
 
-Ưu tiên bổ sung quy trình đo có thể lặp lại, bằng chứng bộ cờ phát hiện đủ rủi ro và lịch năng lực chuyên gia được xác nhận. Không điền giả kết quả thử nghiệm để tăng điểm.
+Ưu tiên bổ sung quy trình đo có thể lặp lại, bằng chứng bộ cờ phát hiện đủ rủi ro và lịch năng lực chuyên gia được xác nhận. Các kết quả thử nghiệm thực tế chỉ được bổ sung sau khi có bằng chứng đo.

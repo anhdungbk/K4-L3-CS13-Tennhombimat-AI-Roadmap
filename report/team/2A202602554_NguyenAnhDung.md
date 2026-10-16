@@ -7,7 +7,7 @@
 
 ## Phần việc phụ trách
 
-Phụ trách toàn bộ bài với AI hỗ trợ: phân tích hồ sơ CP0; xây sáu giả thuyết CP1; chấm ưu tiên và quyết định tự làm/chờ/không làm CP2; thiết kế cổng và tính kinh tế CP3; lộ trình, điều kiện dừng và rà soát CP4; slide lãnh đạo CP5.
+Phạm vi phụ trách toàn bộ bài: phân tích hồ sơ CP0; xây sáu giả thuyết CP1; chấm ưu tiên và quyết định tự làm/chờ/không làm CP2; thiết kế cổng và tính kinh tế CP3; lộ trình, điều kiện dừng và rà soát CP4; slide lãnh đạo CP5.
 
 ## Bằng chứng
 
@@ -25,4 +25,4 @@ Phụ trách toàn bộ bài với AI hỗ trợ: phân tích hồ sơ CP0; xây
 
 Đưa bất định AI vào kế hoạch; viết việc theo kết quả đo được; ưu tiên bằng RICE điều chỉnh theo sẵn sàng và độ bền; đặt cổng trước tăng tự động hóa; tính chi phí duyệt và biên gộp; xác định điều kiện dừng, lịch quyết định. Quyết định trọng tâm là sửa insulin trước pilot, BS luôn ký 100%, không giảm duyệt để làm đẹp kinh tế.
 
-Mục tiêu giảm 2/3 thời gian, định nghĩa sửa nhiều, hiệu quả bộ cờ và tỷ lệ DS 10% còn cần kiểm chứng. Nguồn lực là dự toán, chưa phải cam kết bệnh viện. AI hỗ trợ soạn/tính/kiểm tra được công khai. Không khẳng định đã chạy đánh giá lâm sàng, phỏng vấn hay thu thập hồ sơ thật.
+Mục tiêu giảm 2/3 thời gian, định nghĩa sửa nhiều, hiệu quả bộ cờ và tỷ lệ DS 10% còn cần kiểm chứng. Nguồn lực là dự toán, chưa phải cam kết bệnh viện. Không khẳng định đã chạy đánh giá lâm sàng, phỏng vấn hay thu thập hồ sơ thật.
