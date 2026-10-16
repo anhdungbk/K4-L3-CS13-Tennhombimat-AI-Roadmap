@@ -1,3 +1,5 @@
+> Mẫu gốc tham khảo, không phải báo cáo của thành viên khác. Báo cáo đã điền: [Nguyễn Anh Dũng](2A202602554_NguyenAnhDung.md).
+
 # Báo cáo cá nhân — mẫu bổ sung nếu dùng repo
 
 Đổi tên thành `MSSV_HoTen.md` theo thông tin thật nếu lớp yêu cầu báo cáo cá nhân theo skeleton.

@@ -1,35 +1,13 @@
-# Báo cáo nhóm — mẫu bổ sung nếu dùng repo
+# Báo cáo nhóm CS13 — Tennhombimat
 
-## 1. Thông tin nhóm
+- Thành viên duy nhất: Nguyễn Anh Dũng — MSSV 2A202602554
+- Đề 3: RaViện
+- Phạm vi phụ trách: CP0–CP5 với AI hỗ trợ soạn và kiểm tra.
 
-- Tên nhóm:
-- Đề CS13:
-- Thành viên: xem [team/TEAM.md](../../team/TEAM.md).
+Báo cáo đầy đủ: [BAO_CAO_CS13_De3.md](../../BAO_CAO_CS13_De3.md).
 
-## 2. Mục tiêu và cách tiếp cận
+Bài chính: [Excel](../../Tennhombimat_CS13.xlsx) và [một slide lãnh đạo](../../Tennhombimat_CS13_Slide.pptx).
 
-Ghi kết quả nhóm muốn đạt và căn cứ lấy từ hồ sơ nào.
+Kết quả kiểm tra: 8/8 mục tự kiểm tra. Tự chấm tham khảo [94/100](../../CHAM_THU_CS13.md), không phải điểm giảng viên. Không có thử nghiệm bệnh viện thật.
 
-## 3. Giải pháp
-
-Dẫn đến các việc chọn làm trước, mức tự động và cổng trong Excel; không cần chép lại toàn bộ bảng.
-
-## 4. Kết quả
-
-Ghi tên file Excel, trạng thái tự kiểm tra, chi phí/biên gộp đã tính và slide lãnh đạo.
-
-## 5. Khó khăn và cách xử lý
-
-Ghi vấn đề thực tế của nhóm và cách đã xử lý.
-
-## 6. Tổng hợp đóng góp
-
-Điền đóng góp trong [team/TEAM.md](../../team/TEAM.md).
-
-## 7. Hạn chế và hướng cải thiện
-
-Nêu giả định chưa kiểm chứng và mốc sẽ xem lại.
-
-## 8. Tài liệu tham khảo
-
-Ghi nguồn đã dùng. Đây là mẫu tự ghi chép, không thêm điểm hoặc đầu ra bắt buộc ngoài đề CS13.
+Thông tin thành viên: [TEAM.md](../../team/TEAM.md). Báo cáo cá nhân: [Nguyễn Anh Dũng](2A202602554_NguyenAnhDung.md).
